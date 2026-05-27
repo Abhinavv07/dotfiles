@@ -1,2 +1,2 @@
 # dotfiles
-Config files for linux
+My config files for linux
